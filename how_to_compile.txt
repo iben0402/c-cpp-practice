@@ -1,0 +1,12 @@
+C FILEi
+
+gcc name_of_c_file.c -o name_of_file
+
+./name_of_file
+
+
+C++ FILE
+
+g++ demo2.C -o demo2
+
+./demo2
