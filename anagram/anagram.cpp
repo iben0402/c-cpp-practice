@@ -5,7 +5,7 @@ using namespace std;
 
 bool isAnagram(string s, string t) {
     if(s==t) return true;
-    if(s.length()!=t.length) return false;
+    if(s.length()!=t.length()) return false;
 
     vector<int> amounts(26, 0);
 
