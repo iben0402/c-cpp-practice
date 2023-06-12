@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "twoSum.C": "cpp"
+        "twoSum.C": "cpp",
+        "groupAnagrams.C": "cpp"
     }
 }
